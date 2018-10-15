@@ -1,0 +1,33 @@
+para:Frame Mutation regimes
+Parameters/Parameters_Measure
++ Parameters/N0
++ Parameters/U
++ Parameters/FGM
+
+mut:Frame Mutation regimes
+Small_genetic_basis/Axes
++ Small_genetic_basis/State_ini
+- Small_genetic_basis/State_ini + Small_genetic_basis/Env_change
+- Small_genetic_basis/Env_change + Small_genetic_basis/Mutations
+- Small_genetic_basis/Mutations + Small_genetic_basis/Increase
+- Small_genetic_basis/Increase + Small_genetic_basis/ER
+Large_genetic_basis/Axes
++ Large_genetic_basis/State_ini
+- Large_genetic_basis/State_ini + Large_genetic_basis/Env_change
+- Large_genetic_basis/Env_change + Large_genetic_basis/Mutations
+- Large_genetic_basis/Mutations + Large_genetic_basis/Increase
+- Large_genetic_basis/Increase + Large_genetic_basis/ER
+
+mod:Frame Mutation regimes
+Mutation_regimes/Mut_regimes
++ Mutation_regimes/Step_number
++ Mutation_regimes/Stochasticity
+
+mod-2:Frame Mutation regimes
+Base_1
++ ER_DN
++ ER_SV
++ PhiR_SV
+
+#
+

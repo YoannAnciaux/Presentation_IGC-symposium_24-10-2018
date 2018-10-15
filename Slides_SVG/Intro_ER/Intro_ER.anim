@@ -1,0 +1,12 @@
+: Frame ER
+ER/Dyn_demo
++ ER/Dyn_evo
++ ER/Grow
++ ER/Env_change
++ ER/Extinction
+- ER/Extinction + ER/Env_change_2
+- ER/Env_change - ER/Env_change_2 + ER/Phenotypic_plasticity
++ ER/Env_change - ER/Phenotypic_plasticity + ER/ER_dyn1
++ ER/ER_dyn2
+
+#

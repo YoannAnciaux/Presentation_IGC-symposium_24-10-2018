@@ -1,0 +1,280 @@
+\documentclass[10pt]{beamer}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc} % please support utf8
+\usepackage[backend=biber, sorting=nyt]{biblatex}
+\usepackage{tikz}
+\usepackage{appendixnumberbeamer}
+
+% \makeatletter
+% \def\input@path{{/media/yoannanciaux/DATA/DATA/Documents/Boulot/Coloque_et_formations/2018/Presentation_IGC-symposium_24-10-2018}}
+% \makeatother
+
+\usetheme[progressbar=frametitle]{metropolis}          % Use metropolis theme
+
+\title{Eco-evolutionary dynamics in asexual populations}
+\subtitle{Evolutionary rescue in Fisher's adaptive landscape}
+\date{October 24, 2018}
+\author{Yoann Anciaux}
+\institute{Institut of evolutionary science of Montpellier, France.}
+
+
+\titlegraphic{
+  \includegraphics[width=.15\textwidth]{../Slides_SVG/UM-logo.png}\hfill
+  \includegraphics[width=.3\textwidth]{../Slides_SVG/ISEM-logo.png}\hfill
+  \includegraphics[width=.2\textwidth]{../Slides_SVG/Gaia-logo.png}
+}
+
+\makeatletter
+\setbeamertemplate{title page}{
+  \begin{minipage}[b][\paperheight]{\textwidth}
+    \vfill%
+    \ifx\inserttitle\@empty\else\usebeamertemplate*{title}\fi
+    \ifx\insertsubtitle\@empty\else\usebeamertemplate*{subtitle}\fi
+    \usebeamertemplate*{title separator}
+    \ifx\beamer@shortauthor\@empty\else\usebeamertemplate*{author}\fi
+    \ifx\insertdate\@empty\else\usebeamertemplate*{date}\fi
+    \ifx\insertinstitute\@empty\else\usebeamertemplate*{institute}\fi
+    \vfill
+    \ifx\inserttitlegraphic\@empty\else\inserttitlegraphic\fi
+    \vspace*{1cm}
+  \end{minipage}
+}
+\makeatother
+
+\begin{document}
+
+\maketitle
+
+
+\begin{frame}{Eco-evolutionary dynamics}
+  \def\file{../Slides_SVG/Intro_ER/Intro_ER.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+ \begin{center}
+   \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Genetic basis of evolutionary rescue}
+  \def\file{../Slides_SVG/Intro_origin_of_genetic_variance/Intro_origin_of_genetic_variance.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Model of evolutionary rescue from mutation}
+  \def\file{../Slides_SVG/Intro_ER_from_mutations/Intro_ER_from_mutations.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Fisher's Geometric Model}
+  \def\file{../Slides_SVG/Intro_FGM/Intro_FGM.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Mutation effects \& fitness landscape}
+  \def\file{../Slides_SVG/Intro_fitness_landscapes/Intro_fitness_landscapes.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Fisher's Geometric Model}
+  \def\file{../Slides_SVG/Intro_FGM/Intro_FGM-CCL.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Main objectives}
+  \def\file{../Slides_SVG/Intro_problematic/Intro_problematic.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+\section{Models \& Mutation regimes }
+
+
+\begin{frame}{Parameters of the models}
+  \def\file{../Slides_SVG/Intro_mutation_regimes/Intro_mutation_regimes-para.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Two opposite mutation regimes}
+  \def\file{../Slides_SVG/Intro_mutation_regimes/Intro_mutation_regimes-mut.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Two opposite mutation regimes}
+  \def\file{../Slides_SVG/Intro_mutation_regimes/Intro_mutation_regimes-mod.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Evolutionary rescue probabilities}
+  \def\file{../Slides_SVG/Intro_mutation_regimes/Intro_mutation_regimes-mod-2.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\section{Evolutionary rescue in the "Weak $U$" regime}
+
+
+\begin{frame}{Model in the Weak $U$ regime}
+  \def\file{../Slides_SVG/SAD_effective_stress_level/SAD_effective_stress_level-DN.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\section{Evolutionary rescue in the "Strong $U$" regime}
+
+
+\begin{frame}{Evolutionary rescue probability against stress mediated (via $r_D$)}
+  \def\file{../Slides_SVG/MAD_stress/MAD_stress.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Evolutionary rescue probability against mutation rate ($U$)}
+  \def\file{../Slides_SVG/MAD_mutation_rate/MAD_mutation_rate.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+\begin{frame}{Summary}
+  \def\file{../Slides_SVG/Summary/Summary.pdf}
+  \pdfximage{\file}
+  \edef\nbframes{\the\pdflastximagepages}
+
+  \begin{center}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+  \end{center}
+\end{frame}
+
+
+\section{Preliminary results on data analysis}
+
+
+\begin{frame}{Available data}
+\def\file{../Slides_SVG/Data_analysis/Data_analysis-data.pdf}
+\pdfximage{\file}
+\edef\nbframes{\the\pdflastximagepages}
+
+\begin{center}
+  \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Parametrization of the model and fit}
+\def\file{../Slides_SVG/Data_analysis/Data_analysis-test.pdf}
+\pdfximage{\file}
+\edef\nbframes{\the\pdflastximagepages}
+
+\begin{center}
+  \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Perspectives on data analysis}
+\def\file{../Slides_SVG/Data_analysis/Data_analysis-sum.pdf}
+\pdfximage{\file}
+\edef\nbframes{\the\pdflastximagepages}
+
+\begin{center}
+  \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Conclusions and Perspectives}
+\def\file{../Slides_SVG/Conclusion/Conclusion.pdf}
+\pdfximage{\file}
+\edef\nbframes{\the\pdflastximagepages}
+
+\begin{center}
+  \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Thanks}
+\def\file{../Slides_SVG/Thanks/Thanks.pdf}
+\pdfximage{\file}
+\edef\nbframes{\the\pdflastximagepages}
+
+\begin{center}
+  \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+\end{center}
+\end{frame}
+
+
+\end{document}
