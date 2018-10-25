@@ -17,7 +17,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Soutenance_conclusion.svg">
+   sodipodi:docname="Conclusion.svg">
   <defs
      id="defs4">
     <marker
@@ -642,7 +642,7 @@
     <linearGradient
        id="linearGradient11453"
        osb:paint="solid"
-       gradientTransform="matrix(1.3149407,0,0,1.3149407,-84.686036,-77.740957)">
+       gradientTransform="matrix(1.3149407,0,0,1.3149407,-12.686038,-149.24096)">
       <stop
          style="stop-color:#882255;stop-opacity:1;"
          offset="0"
@@ -1560,7 +1560,7 @@
     <linearGradient
        id="linearGradient6061"
        osb:paint="solid"
-       gradientTransform="matrix(1.3149407,0,0,1.3149407,621.96036,357.63808)">
+       gradientTransform="matrix(1.3149407,0,0,1.3149407,621.43003,357.28453)">
       <stop
          style="stop-color:#078f0d;stop-opacity:1;"
          offset="0"
@@ -1612,11 +1612,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-113.80736"
-     inkscape:cy="118.04963"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="93.454095"
+     inkscape:cy="127.43224"
      inkscape:document-units="px"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -1903,7 +1903,21 @@
          id="flowPara4600"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6375)">Weak</flowPara><flowPara
          id="flowPara4602"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6375)">U</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6375)">U</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="270.99997"
+       y="19.74802"
+       id="text4644"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4646"
+         x="270.99997"
+         y="19.74802"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11327)">Anciaux <tspan
+   style="font-style:italic"
+   id="tspan4660">et al.</tspan> (2018)</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -1929,7 +1943,21 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6375)"
          id="flowPara4610">Strong</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6375)"
-         id="flowPara4612">U</flowPara></flowRoot>  </g>
+         id="flowPara4612">U</flowPara></flowRoot>    <text
+       sodipodi:linespacing="100%"
+       id="text4652"
+       y="180.74802"
+       x="46.499977"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11327)"
+         y="180.74802"
+         x="46.499977"
+         id="tspan4654"
+         sodipodi:role="line">Anciaux <tspan
+   style="font-style:italic"
+   id="tspan4662">et al</tspan>. (in prep)</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
@@ -2337,15 +2365,15 @@
      inkscape:label="Spatialization"
      style="display:inline">
     <path
-       id="path4630"
-       d="m 313.28279,118.7054 c -4.16573,0 -6.1868,2.13941 -7.96985,4.02767 -1.33071,1.4083 -2.52206,2.64565 -4.56416,3.01383 l 0,-28.32907 c 0,-0.71008 -0.57725,-1.28734 -1.28864,-1.28734 l -29.74002,0 c -0.71137,0 -1.28732,0.57595 -1.28732,1.28734 0,3.99742 2.09601,5.97641 3.94482,7.72265 1.72652,1.63184 3.22029,3.04145 3.22029,6.09606 0,1.87905 0,7.59641 -11.32032,7.59641 -11.32033,0 -11.32033,-5.71999 -11.32033,-7.59641 0,-3.05329 1.49509,-4.46422 3.22029,-6.09606 1.84617,-1.74624 3.94219,-3.72523 3.94219,-7.72265 0,-0.71008 -0.57725,-1.28734 -1.28864,-1.28734 l -29.73606,0 c -0.71139,0 -1.28865,0.57595 -1.28865,1.28734 l 0,28.32776 c -2.04473,-0.36817 -3.23607,-1.60554 -4.56679,-3.01384 -1.78174,-1.89089 -3.80412,-4.02767 -7.96986,-4.02767 -4.63778,0 -10.16974,2.40898 -10.16974,13.89105 0,11.48468 5.53196,13.89497 10.16974,13.89497 4.16574,0 6.18417,-2.1394 7.96986,-4.02767 1.33072,-1.40698 2.52206,-2.64565 4.56679,-3.01515 l 0,28.32776 c 0,0.71139 0.57726,1.28733 1.28865,1.28733 l 29.72686,0 c 0.002,0 0.006,0.002 0.0103,0.002 0.70876,0 1.28734,-0.57596 1.28734,-1.28733 0,-0.002 0,-0.002 0,-0.002 0,-10e-4 0,-10e-4 0,-10e-4 l 0,0 c -0.002,-3.99742 -2.09603,-5.9764 -3.9422,-7.72133 -1.72652,-1.63052 -3.2203,-3.04145 -3.2203,-6.0987 0,-1.87772 0,-7.59509 11.32033,-7.59509 11.32033,0 11.32033,5.72131 11.32033,7.59509 0,3.05593 -1.49772,4.46554 -3.22029,6.0987 -1.84881,1.74493 -3.9422,3.72391 -3.94482,7.72133 l 0,0 c 0,0 0,0 0,10e-4 0,0 0,0 0,0.002 0,0.70875 0.57594,1.28733 1.28731,1.28733 0.002,0 0.006,-0.002 0.008,-0.002 l 29.73212,0 c 0.71139,0 1.28865,-0.57594 1.28865,-1.28733 l 0,-28.3212 c 2.04211,0.36688 3.23344,1.60556 4.56415,3.01123 1.78045,1.89088 3.80414,4.02766 7.96986,4.02766 4.6378,0 10.16976,-2.41029 10.16976,-13.89498 0,-11.48338 -5.53196,-13.89235 -10.16976,-13.89235 z"
        inkscape:connector-curvature="0"
+       d="m 313.03658,119.20787 c -4.16573,0 -6.1868,2.14072 -7.96986,4.02766 -1.33071,1.40699 -2.52205,2.64304 -4.56415,3.01254 l 0,-28.327771 c 0,-0.71138 -0.57726,-1.28734 -1.28864,-1.28734 l -28.3304,0 c 0.3695,-2.04604 1.60554,-3.23474 3.01516,-4.56809 1.89088,-1.78043 4.02766,-3.80413 4.02766,-7.97118 0,-4.63911 -2.40897,-10.16844 -13.89366,-10.16844 -11.4847,0 -13.89367,5.52933 -13.89367,10.16844 0,4.16705 2.13941,6.18679 4.02898,7.97118 1.40961,1.33335 2.64566,2.52205 3.01516,4.56809 l -28.32909,0 c -0.71138,0 -1.28864,0.57596 -1.28864,1.28734 l 0,28.329081 c -2.04211,-0.3695 -3.23344,-1.60686 -4.56416,-3.01253 -1.78438,-1.89089 -3.80676,-4.02766 -7.96985,-4.02766 -4.64043,0 -10.16975,2.41159 -10.16975,13.89233 0,11.48338 5.52932,13.89367 10.16975,13.89367 4.16046,0 6.1789,-2.13941 7.96722,-4.02766 1.33335,-1.40699 2.52205,-2.64567 4.56679,-3.01517 l 0,28.32777 c 0,0.71139 0.57726,1.28733 1.28864,1.28733 l 29.72687,0 c 0.008,0 0.008,0 0.0105,0 0.70875,0 1.28733,-0.57594 1.28733,-1.28733 l 0,0 0,0 0,0 c 0,-3.99873 -2.09602,-5.9764 -3.94483,-7.72264 -1.72651,-1.62922 -3.22029,-3.04147 -3.22029,-6.09739 0,-1.88036 0,-7.59641 11.32033,-7.59641 11.32296,0 11.32296,5.71999 11.32296,7.59641 0,3.05592 -1.49772,4.46554 -3.22029,6.09739 -1.84881,1.74624 -3.94482,3.72391 -3.94482,7.72264 l 0,0 0,0 0,0 c 0,0.71139 0.57594,1.28733 1.28732,1.28733 l 0.003,0 29.73738,0 c 0.7114,0 1.28733,-0.57594 1.28733,-1.28733 l 0,-28.32645 c 2.04473,0.3695 3.23345,1.60817 4.56417,3.01516 1.78174,1.88826 3.80411,4.02766 7.96985,4.02766 4.6378,0 10.16975,-2.41029 10.16975,-13.89367 -0.003,-11.48336 -5.53589,-13.89496 -10.1737,-13.89496 z"
+       id="path4647"
        style="display:inline;fill:url(#linearGradient6061)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4632"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient6375);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(39.60913,67.572403)"><flowRegion
+       transform="translate(41.10913,52.572403)"><flowRegion
          id="flowRegion4634"><rect
            id="rect4636"
            width="81.229706"
@@ -2354,7 +2382,27 @@
            y="57.858627"
            style="fill:url(#linearGradient6375)" /></flowRegion><flowPara
          id="flowPara4640"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6375)">Spatialization</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6375)">Multiple environments</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6375)"
+         id="flowPara4645">over space</flowPara></flowRoot>    <a
+       style="display:inline"
+       id="a4666">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4656"
+         y="179.24802"
+         x="333.49997"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11327)"
+           y="179.24802"
+           x="333.49997"
+           id="tspan4658"
+           sodipodi:role="line">Lavigne <tspan
+   id="tspan4664"
+   style="font-style:italic">et al.</tspan> (in review)</tspan></text>
+    </a>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
@@ -2366,7 +2414,7 @@
        d="m 241.56691,191.06142 c -4.16573,0 -6.1868,2.14072 -7.96986,4.02766 -1.33071,1.40699 -2.52205,2.64304 -4.56415,3.01254 l 0,-28.32777 c 0,-0.71138 -0.57726,-1.28734 -1.28864,-1.28734 l -28.3304,0 c 0.3695,-2.04604 1.60554,-3.23474 3.01516,-4.56809 1.89088,-1.78043 4.02766,-3.80413 4.02766,-7.97118 0,-4.63911 -2.40897,-10.16844 -13.89366,-10.16844 -11.4847,0 -13.89367,5.52933 -13.89367,10.16844 0,4.16705 2.13941,6.18679 4.02898,7.97118 1.40961,1.33335 2.64566,2.52205 3.01516,4.56809 l -28.32909,0 c -0.71138,0 -1.28864,0.57596 -1.28864,1.28734 l 0,28.32908 c -2.04211,-0.3695 -3.23344,-1.60686 -4.56416,-3.01253 -1.78438,-1.89089 -3.80676,-4.02766 -7.96985,-4.02766 -4.64043,0 -10.16975,2.41159 -10.16975,13.89233 0,11.48338 5.52932,13.89367 10.16975,13.89367 4.16046,0 6.1789,-2.13941 7.96722,-4.02766 1.33335,-1.40699 2.52205,-2.64567 4.56679,-3.01517 l 0,28.32777 c 0,0.71139 0.57726,1.28733 1.28864,1.28733 l 29.72687,0 c 0.008,0 0.008,0 0.0105,0 0.70875,0 1.28733,-0.57594 1.28733,-1.28733 l 0,0 0,0 0,0 c 0,-3.99873 -2.09602,-5.9764 -3.94483,-7.72264 -1.72651,-1.62922 -3.22029,-3.04147 -3.22029,-6.09739 0,-1.88036 0,-7.59641 11.32033,-7.59641 11.32296,0 11.32296,5.71999 11.32296,7.59641 0,3.05592 -1.49772,4.46554 -3.22029,6.09739 -1.84881,1.74624 -3.94482,3.72391 -3.94482,7.72264 l 0,0 0,0 0,0 c 0,0.71139 0.57594,1.28733 1.28732,1.28733 l 0.003,0 29.73738,0 c 0.7114,0 1.28733,-0.57594 1.28733,-1.28733 l 0,-28.32645 c 2.04473,0.3695 3.23345,1.60817 4.56417,3.01516 1.78174,1.88826 3.80411,4.02766 7.96985,4.02766 4.6378,0 10.16975,-2.41029 10.16975,-13.89367 -0.003,-11.48336 -5.53589,-13.89496 -10.1737,-13.89496 z"
        inkscape:connector-curvature="0" />
     <flowRoot
-       transform="translate(-32.140161,134.38358)"
+       transform="translate(-37.401,123.58113)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient6375);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4646"
        xml:space="preserve"><flowRegion
@@ -2374,9 +2422,11 @@
            style="fill:url(#linearGradient6375)"
            y="57.858627"
            x="183.84776"
-           height="43.908646"
-           width="81.229706"
+           height="54.515247"
+           width="92.189842"
            id="rect4650" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6375)"
-         id="flowPara4652">Ecological feedbacks</flowPara></flowRoot>  </g>
+         id="flowPara4642">Multiple environments</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6375)"
+         id="flowPara4643">over time</flowPara></flowRoot>  </g>
 </svg>

@@ -18,7 +18,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Soutenance_ER.svg">
+   sodipodi:docname="Intro_ER.svg">
   <defs
      id="defs4">
     <marker
@@ -2769,15 +2769,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5966461"
-     inkscape:cx="152.66351"
+     inkscape:cx="38.361411"
      inkscape:cy="91.750457"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1838"
+     inkscape:window-height="1058"
+     inkscape:window-x="74"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="cm"
      fit-margin-top="0"
@@ -2800,7 +2800,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3275,7 +3275,7 @@
          inkscape:original-d="m 63.248,166.68447 5.283936,0"
          inkscape:path-effect="#path-effect5486;#path-effect5488"
          id="path5484"
-         d="m 63.248,166.68447 c 1.761312,0 3.522624,0 5.283936,0"
+         d="m 63.248,166.68447 c 0,0 5.283936,0 5.283936,0"
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient5490);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5248)"
          sodipodi:nodetypes="cc" />
       <g
@@ -4839,7 +4839,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer11"
-     inkscape:label="Eco_evo_def">
+     inkscape:label="Eco_evo_def"
+     style="display:inline">
     <flowRoot
        transform="translate(187.32079,-104.6732)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6266,7 +6267,7 @@
        xml:space="preserve"
        id="flowRoot11838"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#23373b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(17.896009,21.634755)"><flowRegion
+       transform="translate(26.038077,15.371627)"><flowRegion
          id="flowRegion11840"><rect
            id="rect11842"
            width="150.89011"
@@ -6275,7 +6276,9 @@
            y="38.812485"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#23373b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara11844"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11333)">Evolutionary rescue</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11333)">Evolutionary</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11333)"
+         id="flowPara5572">rescue</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot11922"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#linearGradient11952);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

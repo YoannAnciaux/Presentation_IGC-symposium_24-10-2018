@@ -17,7 +17,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Soutenance_Data_analysis.svg">
+   sodipodi:docname="Data_analysis.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -1561,7 +1561,8 @@
        y1="131.38765"
        x2="269.34064"
        y2="131.38765"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-15.888658,0)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1571,10 +1572,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="185.96138"
+     inkscape:cx="142.46138"
      inkscape:cy="100.10946"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer8"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -2192,7 +2193,7 @@
      style="display:none">
     <g
        id="g8966"
-       transform="translate(-62.123876,17.000002)"
+       transform="translate(24.12612,17.500002)"
        style="display:inline;fill:url(#linearGradient11327)">
       <flowRoot
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2208,25 +2209,8 @@
            id="flowPara8964">Model &quot;Weak <flowSpan
    style="font-weight:bold;fill:url(#linearGradient11327)"
    id="flowSpan8972">U</flowSpan>&quot;</flowPara></flowRoot>    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="209.54503"
-       y="34.748024"
-       id="text8984"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan8986"
-         x="209.54503"
-         y="34.748024"
-         style="text-align:center;text-anchor:middle">Optimum shift with</tspan><tspan
-         sodipodi:role="line"
-         x="209.54503"
-         y="44.748024"
-         id="tspan9054"
-         style="text-align:center;text-anchor:middle">antibiotic concentration</tspan></text>
     <flowRoot
-       transform="translate(-2.7881702,-46.499999)"
+       transform="translate(-89.038167,-46.951833)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot9039"
        xml:space="preserve"><flowRegion
@@ -2245,126 +2229,126 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Fit"
-     style="display:inline">
+     style="display:none">
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.29546988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.1062,77.83194 0,111.75634"
+       d="m 80.217542,77.83194 0,111.75634"
        id="path4389"
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.29546988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 95.87719,188.67224 175.42081,0"
+       d="m 79.988532,188.67224 175.420808,0"
        id="path4391"
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:url(#linearGradient5608);stroke-width:1.29546988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.90773,77.83194 c 3.38537,6.36185 10.0112,9.1949 16.14091,12.26054 12.69544,6.34935 26.21985,10.68385 39.01081,16.8159 8.98157,4.3058 17.99967,8.36605 26.83858,13.05008 16.86091,8.93518 33.01205,18.97716 48.34443,30.3455 9.11265,6.75665 18.25607,13.36215 26.7737,20.83757 5.05856,4.43961 10.01064,8.99214 14.87724,13.63757"
+       d="m 81.019072,77.83194 c 3.38537,6.36185 10.0112,9.1949 16.14091,12.26054 12.695438,6.34935 26.219848,10.68385 39.010808,16.8159 8.98157,4.3058 17.99967,8.36605 26.83858,13.05008 16.86091,8.93518 33.01205,18.97716 48.34443,30.3455 9.11265,6.75665 18.25607,13.36215 26.7737,20.83757 5.05856,4.43961 10.01064,8.99214 14.87724,13.63757"
        id="path4393"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        id="path4396"
-       cx="96.924011"
+       cx="81.035347"
        cy="78.216454"
        r="1.6193374" />
     <circle
        cy="81.766083"
-       cx="100.70265"
+       cx="84.813988"
        id="circle5306"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        r="1.6193374" />
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5308"
-       cx="110.95081"
+       cx="95.062149"
        cy="87.663055"
        r="1.6193374" />
     <circle
        cy="91.613464"
-       cx="119.08061"
+       cx="103.19195"
        id="circle5310"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        r="1.6193374" />
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5312"
-       cx="131.6761"
+       cx="115.78745"
        cy="95.96463"
        r="1.6193374" />
     <circle
        cy="108.78912"
-       cx="144.27159"
+       cx="128.38293"
        id="circle5314"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        r="1.6193374" />
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5316"
-       cx="160.87474"
+       cx="144.98608"
        cy="113.71283"
        r="1.6193374" />
     <circle
        cy="124.01823"
-       cx="172.09619"
+       cx="156.20753"
        id="circle5318"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        r="1.6193374" />
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5320"
-       cx="197.74519"
+       cx="181.85654"
        cy="130.88849"
        r="1.6193374" />
     <circle
        cy="141.4229"
-       cx="214.00482"
+       cx="198.11617"
        id="circle5322"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        r="1.6193374" />
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5324"
-       cx="226.25679"
+       cx="210.36813"
        cy="150.69777"
        r="1.6193374" />
     <circle
        cy="158.48407"
-       cx="239.19579"
+       cx="223.30713"
        id="circle5326"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        r="1.6193374" />
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5328"
-       cx="245.95155"
+       cx="230.0629"
        cy="165.01082"
        r="1.6193374" />
     <circle
        cy="175.27354"
-       cx="255.79893"
+       cx="239.91028"
        id="circle5330"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        r="1.6193374" />
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91500002;stroke-miterlimit:3.25;stroke-dasharray:2.745, 2.745;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5332"
-       cx="268.16541"
+       cx="252.27675"
        cy="179.20935"
        r="1.6193374" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="278.80887"
+       x="262.9202"
        y="187.2211"
        id="text5334"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5336"
-         x="278.80887"
+         x="262.9202"
          y="187.2211">Scaled</tspan><tspan
          sodipodi:role="line"
-         x="278.80887"
+         x="262.9202"
          y="197.30656"
          id="tspan4667">concentration <tspan
    style="font-style:italic;font-weight:bold"
@@ -2372,118 +2356,119 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="95.14579"
+       x="79.257126"
        y="62.527672"
        id="text5340"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5342"
-         x="95.14579"
+         x="79.257126"
          y="62.527672"
          style="text-align:center;text-anchor:middle">Scaled</tspan><tspan
          sodipodi:role="line"
-         x="95.14579"
+         x="79.257126"
          y="72.527672"
          id="tspan5344"
          style="text-align:center;text-anchor:middle">rate of rescue</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="69.900291"
+       x="54.011635"
        y="94.701035"
        id="text5350"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5352"
-         x="69.900291"
+         x="54.011635"
          y="94.701035">1e-01</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text5354"
        y="122.62134"
-       x="69.680298"
+       x="53.791641"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="122.62134"
-         x="69.680298"
+         x="53.791641"
          id="tspan5356"
          sodipodi:role="line">1e-03</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="69.695297"
+       x="53.806641"
        y="150.62134"
        id="text5358"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5360"
-         x="69.695297"
+         x="53.806641"
          y="150.62134">1e-05</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text5362"
        y="178.62134"
-       x="69.505287"
+       x="53.616631"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="178.62134"
-         x="69.505287"
+         x="53.616631"
          id="tspan5364"
          sodipodi:role="line">1e-07</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="95.049454"
+       x="79.160789"
        y="200.59216"
        id="text5366"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5368"
-         x="95.049454"
+         x="79.160789"
          y="200.59216">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="134.79938"
+       x="118.91071"
        y="200.56715"
        id="text5370"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5372"
-         x="134.79938"
+         x="118.91071"
          y="200.56715">2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="191.04942"
+       x="175.16077"
        y="200.48216"
        id="text5374"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5376"
-         x="191.04942"
+         x="175.16077"
          y="200.48216">5</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="232.29942"
+       x="216.41077"
        y="200.50716"
        id="text5378"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5380"
-         x="232.29942"
+         x="216.41077"
          y="200.50716">10</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="CCL"
-     style="display:inline">
+     style="display:none">
     <flowRoot
        xml:space="preserve"
        id="flowRoot5532"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-13.187703,0)"><flowRegion
          id="flowRegion5534"><rect
            id="rect5536"
            width="356.17719"
@@ -2514,12 +2499,12 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Summary"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot5681"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-0.11278113,32.200502)"><flowRegion
+       transform="translate(-0.11278113,59.182918)"><flowRegion
          id="flowRegion5683"><rect
            id="rect5685"
            width="382.67719"
@@ -2538,7 +2523,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5689"
        xml:space="preserve"
-       transform="translate(-9.6127806,99.657483)"><flowRegion
+       transform="translate(-9.6127806,126.6399)"><flowRegion
          id="flowRegion5691"><rect
            y="32.248028"
            x="57.999996"
@@ -2562,27 +2547,7 @@
    style="font-size:64.99999762%;baseline-shift:sub"
    id="flowSpan5761">D</flowSpan></flowSpan> vs <flowSpan
    style="font-style:italic;font-weight:bold;fill:url(#linearGradient11333)"
-   id="flowSpan5765">C</flowSpan></flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="191.32874"
-       y="195.94852"
-       id="text5697"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         x="191.32874"
-         y="195.94852"
-         id="tspan5721"
-         style="text-align:center;text-anchor:middle">What about the dependence of <tspan
-   style="font-style:italic;font-weight:bold;text-align:center;text-anchor:middle;fill:url(#linearGradient11333)"
-   id="tspan5709">r<tspan
-   style="font-size:64.99999762%;text-align:center;baseline-shift:sub;text-anchor:middle;fill:url(#linearGradient11333)"
-   id="tspan5713">max</tspan></tspan> and <tspan
-   style="font-style:italic;font-weight:bold;text-align:center;text-anchor:middle;fill:url(#linearGradient11333)"
-   id="tspan5717">λ </tspan>to<tspan
-   style="font-style:italic;font-weight:bold;fill:url(#linearGradient11333)"
-   id="tspan5731"> C</tspan> ?</tspan></text>
-    <flowRoot
+   id="flowSpan5765">C</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5701"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion

@@ -1,15 +1,12 @@
-data:Frame Data
+:Data analysis
 Data
 + rd
 + Diff
 + frd
 
-test:
 Strategy_test
 + Fit
 + CCL
 
-sum:
-Summary
 #
 

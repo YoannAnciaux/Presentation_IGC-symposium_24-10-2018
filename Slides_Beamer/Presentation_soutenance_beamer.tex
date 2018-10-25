@@ -16,7 +16,7 @@
 \subtitle{Evolutionary rescue in Fisher's adaptive landscape}
 \date{October 24, 2018}
 \author{Yoann Anciaux}
-\institute{Institut of evolutionary science of Montpellier, France.}
+\institute{Bioinformatic research center Aarhus, Danemark.}
 
 
 \titlegraphic{
@@ -75,7 +75,7 @@
   \edef\nbframes{\the\pdflastximagepages}
 
   \begin{center}
-    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
+    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[keepaspectratio, page=\i]{\file}}
   \end{center}
 \end{frame}
 
@@ -91,54 +91,8 @@
 \end{frame}
 
 
-\begin{frame}{Mutation effects \& fitness landscape}
-  \def\file{../Slides_SVG/Intro_fitness_landscapes/Intro_fitness_landscapes.pdf}
-  \pdfximage{\file}
-  \edef\nbframes{\the\pdflastximagepages}
-
-  \begin{center}
-    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
-  \end{center}
-\end{frame}
-
-
-\begin{frame}{Fisher's Geometric Model}
-  \def\file{../Slides_SVG/Intro_FGM/Intro_FGM-CCL.pdf}
-  \pdfximage{\file}
-  \edef\nbframes{\the\pdflastximagepages}
-
-  \begin{center}
-    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
-  \end{center}
-\end{frame}
-
-
-\begin{frame}{Main objectives}
-  \def\file{../Slides_SVG/Intro_problematic/Intro_problematic.pdf}
-  \pdfximage{\file}
-  \edef\nbframes{\the\pdflastximagepages}
-
-  \begin{center}
-    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
-  \end{center}
-\end{frame}
-
-\section{Models \& Mutation regimes }
-
-
-\begin{frame}{Parameters of the models}
-  \def\file{../Slides_SVG/Intro_mutation_regimes/Intro_mutation_regimes-para.pdf}
-  \pdfximage{\file}
-  \edef\nbframes{\the\pdflastximagepages}
-
-  \begin{center}
-    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
-  \end{center}
-\end{frame}
-
-
 \begin{frame}{Two opposite mutation regimes}
-  \def\file{../Slides_SVG/Intro_mutation_regimes/Intro_mutation_regimes-mut.pdf}
+  \def\file{../Slides_SVG/Intro_mutation_regimes/Intro_mutation_regimes.pdf}
   \pdfximage{\file}
   \edef\nbframes{\the\pdflastximagepages}
 
@@ -148,46 +102,10 @@
 \end{frame}
 
 
-\begin{frame}{Two opposite mutation regimes}
-  \def\file{../Slides_SVG/Intro_mutation_regimes/Intro_mutation_regimes-mod.pdf}
-  \pdfximage{\file}
-  \edef\nbframes{\the\pdflastximagepages}
-
-  \begin{center}
-    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
-  \end{center}
-\end{frame}
+\section{Prediction of evolutionary rescue probabilities}
 
 
-\begin{frame}{Evolutionary rescue probabilities}
-  \def\file{../Slides_SVG/Intro_mutation_regimes/Intro_mutation_regimes-mod-2.pdf}
-  \pdfximage{\file}
-  \edef\nbframes{\the\pdflastximagepages}
-
-  \begin{center}
-    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
-  \end{center}
-\end{frame}
-
-
-\section{Evolutionary rescue in the "Weak $U$" regime}
-
-
-\begin{frame}{Model in the Weak $U$ regime}
-  \def\file{../Slides_SVG/SAD_effective_stress_level/SAD_effective_stress_level-DN.pdf}
-  \pdfximage{\file}
-  \edef\nbframes{\the\pdflastximagepages}
-
-  \begin{center}
-    \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
-  \end{center}
-\end{frame}
-
-
-\section{Evolutionary rescue in the "Strong $U$" regime}
-
-
-\begin{frame}{Evolutionary rescue probability against stress mediated (via $r_D$)}
+\begin{frame}{Evolutionary rescue probability against environmental stress}
   \def\file{../Slides_SVG/MAD_stress/MAD_stress.pdf}
   \pdfximage{\file}
   \edef\nbframes{\the\pdflastximagepages}
@@ -198,7 +116,7 @@
 \end{frame}
 
 
-\begin{frame}{Evolutionary rescue probability against mutation rate ($U$)}
+\begin{frame}{Evolutionary rescue probability against mutation rate}
   \def\file{../Slides_SVG/MAD_mutation_rate/MAD_mutation_rate.pdf}
   \pdfximage{\file}
   \edef\nbframes{\the\pdflastximagepages}
@@ -208,7 +126,7 @@
   \end{center}
 \end{frame}
 
-\begin{frame}{Summary}
+\begin{frame}{Evolutionary rescue probability against mutation rate}
   \def\file{../Slides_SVG/Summary/Summary.pdf}
   \pdfximage{\file}
   \edef\nbframes{\the\pdflastximagepages}
@@ -221,9 +139,8 @@
 
 \section{Preliminary results on data analysis}
 
-
 \begin{frame}{Available data}
-\def\file{../Slides_SVG/Data_analysis/Data_analysis-data.pdf}
+\def\file{../Slides_SVG/Data_analysis/Data_analysis.pdf}
 \pdfximage{\file}
 \edef\nbframes{\the\pdflastximagepages}
 
@@ -231,29 +148,6 @@
   \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
 \end{center}
 \end{frame}
-
-
-\begin{frame}{Parametrization of the model and fit}
-\def\file{../Slides_SVG/Data_analysis/Data_analysis-test.pdf}
-\pdfximage{\file}
-\edef\nbframes{\the\pdflastximagepages}
-
-\begin{center}
-  \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
-\end{center}
-\end{frame}
-
-
-\begin{frame}{Perspectives on data analysis}
-\def\file{../Slides_SVG/Data_analysis/Data_analysis-sum.pdf}
-\pdfximage{\file}
-\edef\nbframes{\the\pdflastximagepages}
-
-\begin{center}
-  \foreach \i in {1,...,\nbframes}{\includegraphics<\i>[ keepaspectratio, page=\i]{\file}}
-\end{center}
-\end{frame}
-
 
 \begin{frame}{Conclusions and Perspectives}
 \def\file{../Slides_SVG/Conclusion/Conclusion.pdf}

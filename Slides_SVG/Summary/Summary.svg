@@ -17,7 +17,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Soutenance_summary_SAD.svg">
+   sodipodi:docname="Summary.svg">
   <defs
      id="defs4">
     <marker
@@ -1404,11 +1404,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0000001"
-     inkscape:cx="-192.10988"
-     inkscape:cy="70.400064"
+     inkscape:zoom="2.0000002"
+     inkscape:cx="124.53039"
+     inkscape:cy="44.519836"
      inkscape:document-units="px"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -1434,7 +1434,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1586,34 +1586,19 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4408"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-62.562781,-16.415298)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-28.359461,12.862348)"><flowRegion
          id="flowRegion4410"><rect
            id="rect4412"
            width="382.98969"
            height="41.499996"
            x="62.5"
            y="38.24802"
-           style="fill:url(#linearGradient11327)" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327)" /></flowRegion><flowPara
          id="flowPara4440"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11327)">Sharper drop of ER probability with <flowSpan
-   style="font-weight:bold;text-align:center;text-anchor:middle;fill:url(#linearGradient11333)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327)">Sharper drop of ER probability with <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11333)"
    id="flowSpan4431">context-dependence</flowSpan></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4424"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-65.987976,-3.8163093)"><flowRegion
-         id="flowRegion4426"><rect
-           id="rect4428"
-           width="381.45218"
-           height="33"
-           x="66.5"
-           y="72.748016"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';fill:url(#linearGradient11327)" /></flowRegion><flowPara
-         id="flowPara4434"
-         style="text-align:center;text-anchor:middle">Multiple stress effects from the context dependence can be <flowSpan
-   style="font-weight:bold;text-align:center;text-anchor:middle;fill:url(#linearGradient11333)"
-   id="flowSpan4464">summarized in α</flowSpan></flowPara></flowRoot>    <flowRoot
        transform="translate(-17.499999,3.8500069)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3551"
@@ -1631,55 +1616,45 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327)" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327)"
          id="flowPara3565" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4408-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.97000002;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-62.769031,80.858759)"><flowRegion
-         id="flowRegion4410-0"><rect
-           id="rect4412-4"
-           width="382.98969"
-           height="41.499996"
-           x="62.5"
-           y="38.24802"
-           style="fill:url(#linearGradient11327)" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11327)"
-         id="flowPara4429">The models &quot;<flowSpan
-   style="font-weight:bold;fill:url(#linearGradient11333)"
-   id="flowSpan4435">Weak U</flowSpan>&quot; and &quot;<flowSpan
-   style="font-weight:bold;fill:url(#linearGradient11333)"
-   id="flowSpan4437">Strong U</flowSpan>&quot; gives good predictions in <flowSpan
-   style="font-weight:bold;fill:url(#linearGradient11333)"
-   id="flowSpan4433">complementary mutation regimes</flowSpan></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4424-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.97000002;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-66.025476,98.115097)"><flowRegion
-         id="flowRegion4426-2"><rect
-           id="rect4428-6"
-           width="381.45218"
-           height="33"
-           x="66.5"
-           y="72.748016"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';fill:url(#linearGradient11327)" /></flowRegion><flowPara
-         id="flowPara4434-7"
-         style="text-align:center;text-anchor:middle">Populations adapting from <flowSpan
-   style="font-weight:bold;fill:url(#linearGradient11333)"
-   id="flowSpan4439">multiple mutations </flowSpan>can withstand <flowSpan
-   style="font-weight:bold;fill:url(#linearGradient11333)"
-   id="flowSpan4441"> higher stress</flowSpan></flowPara></flowRoot>    <flowRoot
-       transform="translate(-62.900281,184.29753)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.97000002;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-62.485437,81.212501)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.97000002;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3553"
        xml:space="preserve"><flowRegion
          id="flowRegion3555"><rect
-           style="fill:url(#linearGradient11327)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327)"
            y="38.24802"
            x="62.5"
            height="41.499996"
            width="382.98969"
            id="rect3557" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11327)"
-         id="flowPara3559-5"><flowSpan
-   style="font-weight:bold;text-align:center;text-anchor:middle;fill:url(#linearGradient11333)"
-   id="flowSpan3561">Lethal mutagenesis</flowSpan> emerges in populations with large mutation rates adapting in the &quot;Strong U&quot; regime. </flowPara></flowRoot>  </g>
+         id="flowPara4436"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11333)"
+   id="flowSpan3561">Lethal mutagenesis</flowSpan> emerges in populations</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient11327)"
+         id="flowPara4438">with large mutation rates adapting in the &quot;Strong U&quot; regime. </flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Colors1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4434"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.97000002;fill:url(#linearGradient11327);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-33.937781,162.07517)"><flowRegion
+         id="flowRegion4436"><rect
+           id="rect4438"
+           width="382.98969"
+           height="41.499996"
+           x="62.5"
+           y="38.24802"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327)" /></flowRegion><flowPara
+         id="flowPara4441"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327)">Results <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11333)"
+   id="flowSpan4447">qualitatively similar</flowSpan> with <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11333)"
+   id="flowSpan4453">standing genetic variance</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient11327)"
+         id="flowPara4445" /></flowRoot>  </g>
 </svg>

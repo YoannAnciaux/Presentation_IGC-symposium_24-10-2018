@@ -1,21 +1,17 @@
-: Frame FGM
+:Frame FGM
 Axes
 + Permissive
 + Mut_P
+
 Stress_rd
 + Mut_P_rd
 + Res_rd
-Stress_rmax
-+ Mut_P_rmax
-+ Res_rmax
-Stress_lambda
-+ Mut_P_lambda 
-+ Res_lambda
 
-CCL: Frame FGM
-CCL_Stress_FGM
-+ CCL_Stress_FGM1
-+ CCL_Stress_FGM2
-+ CCL_Stress_FGM3
+Env_change/Env_change1
++ Env_change/Env_change2
++ Env_change/Env_change3
++ Env_change/Env_change4
++ Env_change/Env_change5
+
 
 #

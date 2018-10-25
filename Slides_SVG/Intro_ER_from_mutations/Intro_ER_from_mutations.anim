@@ -1,15 +1,14 @@
 : Frame Origins of genetic variance
-Few_models
-+ O_U_r/WT_P
-+ O_U_r/WT_S
-+ O_U_r/Mut
-+ O_U_r/M_P
-+ O_U_r/M_S
-+ O_U_r/SV
-+ O_U_r/DN
-CCL_CD
-+ CCL_CD1
+No/Sizeframe
++ No/Sizepop1
++ No/Sizepop2
++ No/Sizepop3
++ U
++ rD
++ CCL
+
+CCL_CD1
 + CCL_CD2
-- CCL_CD1 - CCL_CD2 + CCL_CD3
++ CCL_CD3
 
 #
